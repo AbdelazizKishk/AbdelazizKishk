@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz Mohamed</h1>
 <h3 align="center">Front-end developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelazizkishk&label=Profile%20views&color=0e75b6&style=flat" alt="abdelazizkishk" /> </p>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - 🌱 I’m currently learning **Html,Css,javaScript,Bootstrap**
 
