@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular**
 
-- 📝 I regularly write articles on [www.linkedin.com/in/abd-elaziz-mohamed258](www.linkedin.com/in/abd-elaziz-mohamed258)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/abd-elaziz-mohamed258/)
 
 - 📫 How to reach me **abdelazizmohamed19@gmail.com**
 
