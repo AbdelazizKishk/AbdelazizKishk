@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/abd-elaziz-mohamed258/)
 
-- 📫 You can reach me via email at: **abdelazizmohamed19@gmail.com**
+- 📫 You can reach me via email at: **abdelazizkishk19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
